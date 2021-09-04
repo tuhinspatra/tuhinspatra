@@ -6,7 +6,7 @@ I’m also available on
 - Linkedin [@tuhinp](https://www.linkedin.com/in/tuhinp/)
 
 
-Looking forward to collaborate on with you! 👯 
+Looking forward to collaborate with you! 👯 
 
 
 <!--
