@@ -3,7 +3,7 @@
 <!-- Cover Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuhinspatra/tuhinspatra/main/assets/banner.jpg" alt="Tuhin's GitHub Banner" width="100%" style="aspect-ratio: 6/1; object-fit:cover; object-position:center 65%;" />
+  <img src="https://raw.githubusercontent.com/tuhinspatra/tuhinspatra/main/assets/banner.png" alt="Tuhin's GitHub Banner" width="100%" style="aspect-ratio: 6/1; object-fit:cover; object-position:center 65%;" />
 </p>
 
 
