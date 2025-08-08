@@ -3,7 +3,7 @@
 <!-- Cover Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuhinspatra/tuhinspatra/main/assets/banner.jpg" alt="Tuhin's GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/tuhinspatra/tuhinspatra/main/assets/banner.jpg" alt="Tuhin's GitHub Banner" width="100%" style="aspect-ratio: 6/1; object-fit:cover; object-position:center 65%;" />
 </p>
 
 
@@ -38,6 +38,7 @@ Currently at **Rubrik**, I lead engineering efforts around:
 
 I'm passionate about the intersection of **AI, big data, and scalable systems** — and I thrive on solving complex problems with elegant engineering.
 
+<br/>
 
 
 ## 🧰 Tech Stack
@@ -50,7 +51,7 @@ I'm passionate about the intersection of **AI, big data, and scalable systems** 
 | **Cloud Platforms**  | Azure, GCP, AWS, On-Prem                                                            |
 | **AI/ML**            | Model training, AI agents, Agentic workflows                                       |
 
-
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -64,7 +65,7 @@ I'm passionate about the intersection of **AI, big data, and scalable systems** 
 - 🛠️ [Asq ](https://github.com/tuhinspatra/asq-django) — Django-based Stackoverflow for college 
 - 🎸 [Bandit Girl Mobile Game](https://github.com/tuhinspatra/Bandit-Girl-AR) — Augmented reality music experience using 3D models and interactive audio  
 
-
+<br/>
 
 ## 📈 GitHub Stats
 
@@ -72,14 +73,16 @@ I'm passionate about the intersection of **AI, big data, and scalable systems** 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhinspatra&theme=github_dark" width="98%">
 </p>
 
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhinspatra&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhinspatra&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuhinspatra&theme=github_dark&utcOffset=5" />
 </p>
+
+
 
 <p align="center"><i>Note: Most of my active contributions happen within private organizational repositories.</i></p>
 <br/>
@@ -87,11 +90,5 @@ I'm passionate about the intersection of **AI, big data, and scalable systems** 
 ---
 
 <p align="center">
-  ⚡ <strong>Always building. Always learning. Always optimizing.</strong> ⚡
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Excited dog" width="120" />
-  <img src="https://media.giphy.com/media/3o6Zt8zb1Pp2h6nUuk/giphy.gif" alt="Fist bump" width="120" />
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Pirate hook" width="120" />
+  ⚡ <strong>Always building. Always learning.</strong> ⚡
 </p>
