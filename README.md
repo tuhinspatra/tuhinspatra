@@ -1,45 +1,97 @@
+<!-- Header -->
 
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<!-- Cover Image -->
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuhinspatra/tuhinspatra/main/assets/banner.jpg" alt="Tuhin's GitHub Banner" width="100%" />
+</p>
 
-I’m Tuhin, a backend engineer and full stack developer.
+
+
+
+
+<h1 align="center">👋 Hi, I'm Tuhin</h1>
+<p align="center">
+  <strong>Distributed Systems • Data Infra • AI/ML Enthusiast • Candidate Master @Codeforces</strong><br/>
+  <em>Building scalable systems, solving meaningful problems, and optimizing everything in between.</em>
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/tuhinspatra"><img alt="GitHub followers" src="https://img.shields.io/github/followers/tuhinspatra?label=Followers&style=social"></a>
+  <a href="https://github.com/tuhinspatra"><img alt="GitHub stars" src="https://img.shields.io/github/stars/tuhinspatra?style=social"></a>
+  <a href="https://linkedin.com/in/tuhinp"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tuhinp-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/tuhinspatra"><img alt="@tuhinspatra" src="https://img.shields.io/badge/@tuhinspatra-%235B51D8?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="mailto:tsubhrapatra@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-tsubhrapatra@gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
+</p>
+
+
+
+## 👨‍💻 About Me
+
+I'm a software engineer with 5+ years of experience designing and building large-scale distributed systems, data pipelines, and secure cloud infrastructure.
+
+Currently at **Rubrik**, I lead engineering efforts around:
+- 🔁 Data replication at scale
+- 📊 Observability systems
+- 🤖 AI-powered internal tooling
+
+I'm passionate about the intersection of **AI, big data, and scalable systems** — and I thrive on solving complex problems with elegant engineering.
+
+
+
+## 🧰 Tech Stack
+
+| Category            | Tools & Technologies                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|
+| **Languages**        | GoLang, Java, Python, Scala, JavaScript, C++, Bash                                 |
+| **Distributed Systems** | Microservices, Apache Spark, Kafka, Kubernetes, Databricks                        |
+| **Data Infra**       | Snowflake, MySQL, Redis, Elasticsearch, CockroachDB, TrinoDB                        |
+| **Cloud Platforms**  | Azure, GCP, AWS, On-Prem                                                            |
+| **AI/ML**            | Model training, AI agents, Agentic workflows                                       |
+
+
+
+## 🚀 Featured Projects
 
 <p align="center">
-  
-   [![Twitter Badge](https://img.shields.io/badge/-tuhinspatra-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tuhinspatra)](https://twitter.com/tuhinspatra) 
-[![Linkedin Badge](https://img.shields.io/badge/-tuhinp-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuhinp/)](https://www.linkedin.com/in/tuhinp/) 
-[![Gmail Badge](https://img.shields.io/badge/-tsubhrapatra-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tsubhrapatra@gmail.com)](mailto:tsubhrapatra@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-tuhinspatra-cd486b?style=for-the-badge&labelColor=cd486b&logo=instagram&logoColor=white&link=https://www.instagram.com/tuhinspatra/)](https://www.instagram.com/tuhinspatra/) 
-   [![Facebook Badge](https://img.shields.io/badge/-tuhinspatra.fb-036be4?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/tuhinspatra.fb/)](https://www.facebook.com/tuhinspatra.fb/)
-
+  <em>Some of my favorite builds — blending ML, infra, and creativity:</em>
 </p>
+
+- 🧠 [AI Tweet Generator](https://github.com/tuhinspatra/ai-tweepic) — Generate tweets from images using ML & Flask  
+- 🧬 [North vs South Indian Classifier](https://github.com/tuhinspatra/classification-north-south-indian) — ML model using facial features  
+- 🔗 [Hot or Not DApp](https://github.com/tuhinspatra/hot-or-not-dapp) — Decentralized idea sharing with Ethereum smart contracts  
+- 🛠️ [Asq ](https://github.com/tuhinspatra/asq-django) — Django-based Stackoverflow for college 
+- 🎸 [Bandit Girl Mobile Game](https://github.com/tuhinspatra/Bandit-Girl-AR) — Augmented reality music experience using 3D models and interactive audio  
+
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuhinspatra&theme=github_dark" width="98%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuhinspatra&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuhinspatra&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuhinspatra&theme=github_dark&utcOffset=5" />
+</p>
+
+<p align="center"><i>Note: Most of my active contributions happen within private organizational repositories.</i></p>
+<br/>
 
 ---
 
- 
-**Github Stats:**
-
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tuhinspatra&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinspatra&count_private=true&hide=html&theme=dracula&line_height=10">
-
+  ⚡ <strong>Always building. Always learning. Always optimizing.</strong> ⚡
 </p>
 
-
- 
 <p align="center">
- 
-  <p align="center">
-    Show some ❤️ by starring and forking repositories you find good!
-  </p>
-  <p align="center">
-    Looking forward to collaborate with you! 👯 
-  </p>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Excited dog" width="120" />
+  <img src="https://media.giphy.com/media/3o6Zt8zb1Pp2h6nUuk/giphy.gif" alt="Fist bump" width="120" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Pirate hook" width="120" />
 </p>
-
-<div align="right">
-  
-![ViewCount](https://views.whatilearened.today/views/github/tuhinspatra/tuhinspatra.svg)
-
-</div>
-
